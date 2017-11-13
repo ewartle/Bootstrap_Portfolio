@@ -55,7 +55,7 @@ h3 {
 #Hangman {
 	position: absolute;
 	top: 175px;
-	left: 75px;
+	left: 125px;
 }
 
 #Trivia {
@@ -85,6 +85,7 @@ h3 {
 .col-md-4 {
 	margin: 0px;
 	padding-left: 20px;
+
 }
 
 .col-md-8 {
@@ -97,12 +98,19 @@ h3 {
 }
 
 .right {
-	padding-left: 0px;
+	padding-left: 40px;
 }
 
 .left {
-	padding-left:75px;
+	padding-left:125px;
 }
+
+
+#smm {
+ padding-left: 25px;
+ padding-right: 40px;
+}
+
 
 h2 {
 	text-align: center;
@@ -205,7 +213,7 @@ body {
 }
 
 #Col2 {
-	padding-left:50px;
+	padding-left:15px;
 }
 
 .col-md-12 {
